@@ -1,10 +1,4 @@
-# Blue-Bank-Loan-Analysis-Using-Python-and-Tableau
-
-Creating a comprehensive and well-structured README is crucial for your GitHub repository, as it serves as the first point of contact for potential collaborators and users. Below is an example template for your Blue Bank Loan Analysis project README:
-
----
-
-# Blue Bank Loan Analysis Using Python and Tableau
+# Blue Bank Loan Risk Analysis
 
 ## Introduction
 
